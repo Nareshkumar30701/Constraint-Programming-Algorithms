@@ -1,13 +1,11 @@
 # Constraint-Programming-Algorithms
 Hill Climbing and Simulated Annealing Implementation
 
-## 1 Objective
+## Objective
 In this lab, you will implement two optimization algorithms, Hill Climbing and Simulated Annealing, from
 scratch to solve the cryptarithmetic puzzle:
-SEND
-+ MORE
-------
-MONEY
+SEND + MORE = MONEY
+
 Each letter represents a unique digit from 0 to 9. Your goal is to find the digit each letter represents such that
 the sum is correct.
 
